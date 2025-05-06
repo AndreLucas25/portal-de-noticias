@@ -36,3 +36,14 @@
     }
   }
 }
+
+#weekly{
+  div{
+    margin-block: 24px;
+  }
+  
+  img{
+    height: 50%;
+    object-fit: cover;
+  }
+}
