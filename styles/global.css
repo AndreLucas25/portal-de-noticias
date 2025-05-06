@@ -39,6 +39,14 @@ body{
   margin-inline: auto;
 }
 
+main{
+  margin-top: 40px;
+}
+
+img{
+  max-width: 100%;
+}
+
 a{
   text-decoration: none;
   color: inherit;
@@ -51,12 +59,3 @@ a:hover{
 h1, h2, h3{
   font: inherit;
 }
-
-.grid{
-  display: grid;
-}
-
-.grid-auto-flow{
-  grid-auto-flow: column;
-}
-
